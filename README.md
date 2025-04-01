@@ -1,7 +1,4 @@
 # CPS-Tester
-CPS-Tester app using Java Swing ⚡⚡⚡
-
-
 
 This application is my other big project besides [HelloWinter](https://github.com/konraaadcz/HelloWinter). To run it, run the `start.bat` file 
 
