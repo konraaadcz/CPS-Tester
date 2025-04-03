@@ -8,7 +8,7 @@ You will need the latest version of Java to use it, so if you don't have it yet,
 # Spoilers
 
 
-![loadingscreen](src/resources/loadingscreen.png)
+![splashscreen](src/resources/loadingscreen.png)
 
 
 ![app](src/resources/app.png)
